@@ -4,6 +4,6 @@
     "zh"
   ],
   "fileType": "json",
-  "pattern": ":lng/:ns",
+  "pattern": "public/locales/:lng/:ns",
   "defaultLanguage": "en"
 }

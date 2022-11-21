@@ -4,6 +4,11 @@
     "zh"
   ],
   "fileType": "json",
-  "pattern": "public/locales/:lng/:ns",
-  "defaultLanguage": "en"
+  "defaultLanguage": "en",
+  "namespaces": [
+    "common",
+    "featureA",
+    "featureB"
+  ],
+  "useCustomPath": true
 }
